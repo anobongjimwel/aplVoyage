@@ -1,0 +1,49 @@
+{
+    "Initial Questions": [
+        "Hey [owner], are you up for a ride?",
+        "Hey [owner], I'm [assistant_name], your [app_name]. Are we going somewhere?",
+        "Hey, going somewhere?",
+        "Are we going somewhere?",
+        "Off to somewhere?"
+    ],
+    "Maintenance Questions": [
+        "Are these parts well maintained?",
+        "Check these parts first to make sure they are well maintained",
+        "Please make sure to have these parts checked"
+    ],
+    "Safety Precaution Questions": [
+        "Just some safety precautions",
+        "Check these also before proceeding",
+        "Just reminding you to check these also",
+        "Last check",
+        "Safety precautions check",
+        "Check these safety precautions first"
+    ],
+    "Spotify Playlist Questions": [
+        "Which playlist should I play?",
+        "Which playlist do you prefer me to play?",
+        "Which set of songs to play?",
+        "Any playlist you have in mind?",
+        "Which set of songs should I load?"
+    ],
+    "Spotify Track Announcement": [
+        "Now playing [song_title] by [artist]. Enjoy your music.",
+        "[song_title] by [artist], it is.",
+        "I've loaded [song_title] by [artist] for your listening pleasure",
+        "[artist]'s [song_title] now playing",
+        "[artist]'s [song_title] comin' right up"
+    ],
+    "Apple Podcast Episode Questions": [
+        "Which episode should I play?",
+        "Which episode?",
+        "Which among these episodes should I play?",
+        "... and what episode?",
+        "Which from [podcast] podcast should I play?"
+    ],
+    "Apple Podcast Questions": [
+        "Which podcast should I open?",
+        "Which podcast should I play?",
+        "Choose a podcast to play",
+        "Choose a podcast"
+    ]
+}

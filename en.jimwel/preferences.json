@@ -1,0 +1,17 @@
+{
+    "Owner Name": "",
+    "Order": [
+        "weather",
+        "maintenance",
+        "safety_precaution",
+        "music",
+        "navigation",
+        "message",
+        "dnd"
+    ],
+    "Music": {
+        "spotify": false,
+        "apple_music": true,
+        "apple_podcast": false
+    }
+}
