@@ -4,5 +4,15 @@
     "Short Name": "Voyage",
     "Author": "Jimwel Anobong",
     "Version": "1.0",
-    "Language": "English (General)"
+    "Language": "English (General)",
+    "Components": {
+        "initSetup": "",
+        "music_Spo": "",
+        "music_Apl": "",
+        "pc_Apl": "",
+        "mntnce": "",
+        "safety_pctns": "",
+        "nav": "",
+        "dnd": ""
+    }
 }
