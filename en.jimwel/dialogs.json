@@ -1,4 +1,5 @@
 {
+    "Name Asking": "What is your name?",
     "Initial Questions": [
         "Hey [owner], are you up for a ride?",
         "Hey [owner], I'm [assistant_name], your [app_name]. Are we going somewhere?",
