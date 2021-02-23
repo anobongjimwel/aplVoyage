@@ -6,13 +6,11 @@
     "Version": "1.0",
     "Language": "English (General)",
     "Components": {
-        "initSetup": "",
-        "music_Spo": "",
-        "music_Apl": "",
-        "pc_Apl": "",
-        "mntnce": "",
-        "safety_pctns": "",
-        "nav": "",
-        "dnd": ""
+        "initSetup": "Voyage: Initial Setup",
+        "music": "Voyage: Music",
+        "mntnce": "Voyage: Maintenance",
+        "safety_pctns": "Voyage: Safety Precautions",
+        "nav": "Voyage: Navigation",
+        "dnd": "Voyage: Do Not Disturb"
     }
 }
