@@ -2,6 +2,12 @@
     "Name Asking": "What is your name?",
     "Initial Setup Message": "We're just preparing things for you.",
     "Initial Setup Notification": "We have updated your preferences for initial setup. You may run again the shortcut to start a new session.",
+    "Weather Message": [
+        "Here's the weather for today",
+        "Here's the weather",
+        "Alright, I'll just show you the weather.",
+        "Showing you the weather..."
+    ],
     "Initial Questions": [
         "Hey [owner], are you up for a ride?",
         "Hey [owner], I'm [assistant_name], your [app_name]. Are we going somewhere?",
