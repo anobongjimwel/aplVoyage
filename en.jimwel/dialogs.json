@@ -28,6 +28,12 @@
         "Safety precautions check",
         "Check these safety precautions first"
     ],
+    "Music Questions": [
+        "Wanna play some music?",
+        "Are you up for some music?",
+        "Some tunes there, yeah?",
+        ""
+    ],
     "Spotify Playlist Questions": [
         "Which playlist should I play?",
         "Which playlist do you prefer me to play?",
